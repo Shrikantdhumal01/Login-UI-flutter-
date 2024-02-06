@@ -17,13 +17,7 @@ If you found this project useful, then please consider giving it a :star: on Git
 
 ---
 
-## Project Created & Maintained By
-
-### Siddharth Chopra
-
-<a href="https://twitter.com/sidd_art_"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="60"></a>
-<a href="https://linkedin.com/in/siddharthchopra1/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="60"></a>
-<a href="https://instagram.com/siddharth_chopra"><img src="https://github.com/aritraroy/social-icons/blob/master/instagram-icon.png?raw=true" width="60"></a>
+project created by Shrikant Dhumal
 
 
 
